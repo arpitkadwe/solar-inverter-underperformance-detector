@@ -2,7 +2,7 @@
 
 Detects solar inverters that produce less power than the weather justifies, using an XGBoost "expected power" model validated with peer comparison and simulated faults.
 
-**Live demo:** _coming soon_
+**Live demo:** https://solar-inverter-underperformance-detector.streamlit.app/
 
 ![Detection rate vs fault size](images/detection_curve.png)
 

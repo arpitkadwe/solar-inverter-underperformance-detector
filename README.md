@@ -111,4 +111,4 @@ Python, pandas, SQLite, scikit-learn, XGBoost, SHAP, Plotly, Streamlit.
 
 ## Author
 
-Arpit Kadwe · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/arpitkadwe)
+Arpit Kadwe · [LinkedIn](https://www.linkedin.com/in/arpit-kadwe-5148b532b/) · [GitHub](https://github.com/arpitkadwe)

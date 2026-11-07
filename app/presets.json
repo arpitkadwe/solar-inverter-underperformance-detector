@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Real reading: typical inverter at peak sun",
+    "irradiation": 1.031,
+    "ambient": 28.6,
+    "module": 53.8,
+    "hour": 12.25,
+    "power": 1335.1,
+    "note": "Real data from a typical inverter."
+  },
+  {
+    "name": "Real reading: weak inverter during a flagged period",
+    "irradiation": 0.426,
+    "ambient": 25.9,
+    "module": 38.5,
+    "hour": 11.75,
+    "power": 0.0,
+    "note": "Real data, flagged by peer comparison."
+  },
+  {
+    "name": "Simulated 30% power loss",
+    "irradiation": 1.031,
+    "ambient": 28.6,
+    "module": 53.8,
+    "hour": 12.25,
+    "power": 934.6,
+    "note": "Simulated: the real reading above with 30% removed."
+  }
+]

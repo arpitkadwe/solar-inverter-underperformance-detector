@@ -1,0 +1,5 @@
+Model,CV MAE (kW),Test MAE (kW),Test RMSE (kW),Test R2
+Linear (irradiation only),46.627,43.07,57.073,0.965
+Linear (4 features),47.072,43.467,57.272,0.964
+Random Forest,44.553,30.61,47.757,0.975
+XGBoost,41.803,27.311,43.892,0.979
